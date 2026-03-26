@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Su-Young Jung
 
-<!--
-**Su-Young-Jung/Su-Young-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.S. Student in Multimodal AI  
+🏫 Inha University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Research Interests
+- Computer Vision
+- Multimodal Learning
+
+---
+
+## 🚀 Current Research
+- ??
+
+---
+
+## 🛠 Tech Stack
+- Python, PyTorch
+- Computer Vision
+- Multimodal AI
+
+---
+
+## 📂 Projects
+### 🔹 Strawberry Sweetness Prediction
+- YOLO + CNN Regression
+- RGB + HSV 6-channel input
+
+### 🔹 Emotion Recognition System
+- FER-2013 기반 CNN
+- 얼굴 인식 + 감정 분석
+
+---
+
+## 📈 Goal
+- Top-tier Conference (CVPR, ICCV, NeurIPS)
+- First-author paper
+
+---
+
+## 📫 Contact
+- Email: suyoung.jung@inha.edu
