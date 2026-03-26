@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Su-Young Jung
 
-🎓 M.S. Student in Multimodal AI @ Inha University  
-🔍 Interested in Vision-Language Alignment & Open-Vocabulary Detection  
-
 ---
 
 ## 🧑‍💻 Introduction
