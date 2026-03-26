@@ -1,44 +1,55 @@
 # 👋 Hi, I'm Su-Young Jung
 
-🎓 M.S. Student in Multimodal AI  
-🏫 Inha University  
+🎓 M.S. Student in Multimodal AI @ Inha University  
+🔍 Interested in Vision-Language Alignment & Open-Vocabulary Detection  
 
 ---
 
-## 🔍 Research Interests
-- Computer Vision
-- Multimodal Learning
+## 🧑‍💻 Introduction
+I am a master's student focusing on Computer Vision and Multimodal Learning.  
+My goal is to develop robust models that generalize to unseen concepts through vision-language alignment.
 
 ---
 
-## 🚀 Current Research
-- ??
+## 🎓 Education
+- M.S. in AI, Inha University (2026 ~ )
+- B.S. in Computer Science, Suwon University
 
 ---
 
-## 🛠 Tech Stack
-- Python, PyTorch
-- Computer Vision
-- Multimodal AI
+## 🔬 Research Interests
+- Open-Vocabulary Object Detection
+- Vision-Language Models (VLM)
+- Grounding / Referring Expression
+- Multimodal Representation Learning
 
 ---
 
-## 📂 Projects
+## 📄 Publications
+*(To be updated)*
+
+---
+
+## 🚀 Projects
+
 ### 🔹 Strawberry Sweetness Prediction
-- YOLO + CNN Regression
+- YOLO-based object detection + CNN regression
 - RGB + HSV 6-channel input
+- Stratified K-Fold training
 
 ### 🔹 Emotion Recognition System
 - FER-2013 기반 CNN
-- 얼굴 인식 + 감정 분석
+- Face recognition + emotion classification
 
 ---
 
-## 📈 Goal
-- Top-tier Conference (CVPR, ICCV, NeurIPS)
-- First-author paper
+## 🛠 Skills
+- **Languages**: Python
+- **Frameworks**: PyTorch
+- **Domains**: Computer Vision, Multimodal AI
+- **Concepts**: Transformer, DETR, Representation Learning
 
 ---
 
-## 📫 Contact
-- Email: suyoung.jung@inha.edu
+## 📈 Research Goal
+- First-author paper at top-tier conferences (CVPR, ICCV, NeurIPS)
