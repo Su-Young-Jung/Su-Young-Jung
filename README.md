@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Su-Young Jung
 
+---
+
 ## 🧑‍💻 Introduction
 I am a master's student focusing on Computer Vision and Multimodal Learning.  
 My goal is to develop robust models that generalize to unseen concepts through vision-language alignment.
