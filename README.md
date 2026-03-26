@@ -10,7 +10,7 @@ My goal is to develop robust models that generalize to unseen concepts through v
 
 ## 🎓 Education
 - M.S. in AI, Inha University (2026 ~ )
-- B.S. in Computer Science, Suwon University
+- B.S. in Computer Science, Suwon University (2020 ~ 2026)
 
 ---
 
